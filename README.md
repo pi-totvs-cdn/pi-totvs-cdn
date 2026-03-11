@@ -1,16 +1,16 @@
-## Hi there 👋
+# Projeto Integrador – Análise da TOTVS
 
-<!--
-**pi-totvs-cdn/pi-totvs-cdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contexto
+Este projeto foi desenvolvido pela turma de Ciência de Dados para Negócios (CDN) do primeiro semestre.
 
-Here are some ideas to get you started:
+## Metodologia
+A análise foi realizada utilizando o modelo de Semiótica Discursiva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Modelo Actancial
+
+**Sujeito:** TOTVS  
+**Objeto de valor:** Transformação digital das empresas  
+**Destinador:** Necessidade de digitalização do mercado  
+**Destinatário:** Empresas clientes e gestores  
+**Adjuvantes:** Tecnologia, inovação e capital humano  
+**Oponentes:** Concorrência global e desafios tecnológicos
